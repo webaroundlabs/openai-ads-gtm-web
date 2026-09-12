@@ -1,5 +1,11 @@
 # OpenAI Ads Measurement Pixel — GTM Web template
 
+> **Generated.** This repository is [`packages/gtm-web`](https://github.com/webaroundlabs/openai-ads-toolkit/tree/main/packages/gtm-web)
+> of the OpenAI Ads Toolkit, published on its own because the Community Template
+> Gallery indexes one template per repository. **Bugs, questions and pull requests
+> belong in [the monorepo](https://github.com/webaroundlabs/openai-ads-toolkit/issues)** — anything committed here is
+> replaced on the next sync.
+
 A Google Tag Manager **web** container template that loads the official OpenAI
 Ads Pixel and reports conversions.
 
@@ -90,10 +96,3 @@ to the dropdown fails the check.
 [Apache 2.0](LICENSE) © 2026 Webaround Labs — not the MIT the rest of the toolkit
 uses. The Community Template Gallery requires a repository whose `LICENSE` is the
 Apache 2.0 text and nothing else, and this package is published there.
-
----
-
-This repository is generated from [`packages/gtm-web`](https://github.com/webaroundlabs/openai-ads-toolkit/tree/main/packages/gtm-web)
-in the OpenAI Ads Toolkit, so the Community Template Gallery has the
-single-template repository it requires. Issues and pull requests belong in the
-monorepo; anything committed here is replaced on the next sync.
