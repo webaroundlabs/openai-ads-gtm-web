@@ -1,2 +1,3 @@
-homepage: https://github.com/webaroundlabs/openai-ads-toolkit
+homepage: "https://github.com/webaroundlabs/openai-ads-toolkit"
+documentation: "https://github.com/webaroundlabs/openai-ads-toolkit/blob/main/packages/gtm-web/README.md"
 versions: []
